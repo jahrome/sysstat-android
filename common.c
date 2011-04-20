@@ -28,6 +28,7 @@
 #include <sys/ioctl.h>
 #include <sys/types.h>
 #include <dirent.h>
+#include <asm/termios.h>
 
 #include "version.h"
 #include "common.h"
